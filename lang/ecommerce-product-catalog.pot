@@ -2024,8 +2024,20 @@ msgstr ""
 msgid "Unit"
 msgstr ""
 
+#: modules/attributes/attributes-settings.php:110
+msgid "Standard attributes"
+msgstr ""
+
 #: modules/attributes/attributes-settings.php:114
 msgid "Attributes disabled. To enable set minimum 1 attribute."
+msgstr ""
+
+#: modules/attributes/attributes-settings.php:114
+msgid "Size Unit"
+msgstr ""
+
+#: modules/attributes/attributes-settings.php:115
+msgid "Weight Unit"
 msgstr ""
 
 #: modules/attributes/attributes-settings.php:123
@@ -2038,6 +2050,18 @@ msgstr ""
 
 #: modules/attributes/attributes-settings.php:197
 msgid "Show Attributes"
+msgstr ""
+
+#: modules/attributes/comparison.php:195
+msgid "Comparison"
+msgstr ""
+
+#: modules/attributes/comparison.php:198
+msgid "Comparison Page"
+msgstr ""
+
+#: modules/attributes/comparison.php:201
+msgid "Comparison Disabled"
 msgstr ""
 
 #: modules/price/price-meta.php:25
